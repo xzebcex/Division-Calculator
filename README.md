@@ -15,4 +15,4 @@ Note: To exit the script, type 'q' and hit Enter at any time.
 The script used a while loop to repeatedly request the user for two integers to divide until the user presses the 'q' key to exit. If a legitimate pair of integers is given by the user, the script employs a try/except block to catch any potential ZeroDivisionError (i.e. the second number entered is zero). If no errors are reported, the script divides the first and second numbers and prints the quotient to the console.
 
 ## Contributing
-If you encounter any errors or have recommendations for improvements, please open a pull request or file an issue on GitHub at github.com/xzebcex/Division-Calculator
+If you encounter any errors or have recommendations for improvements, please open a pull request or file an issue on GitHub at https://github.com/xzebcex/Division-Calculator
